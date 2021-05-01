@@ -14,14 +14,13 @@ import { CustomerDashboardModule } from './customer-dashboard/customer-dashboard
 
 
 const config = {
-  apiKey: 'AIzaSyBpwUMO1cdPkz0kBQGu1Omj55Ww3r_Lgfk',
-  authDomain: 'myconsent-fa8d1.firebaseapp.com',
-  databaseURL: 'https://myconsent-fa8d1.firebaseio.com',
-  projectId: 'myconsent-fa8d1',
-  storageBucket: 'myconsent-fa8d1.appspot.com',
-  messagingSenderId: '1092494449686',
-  appId: '1:1092494449686:web:5b847cd839ef3376316937',
-  measurementId: 'G-CM042FVEF4'
+  apiKey: "AIzaSyBKwURcMXUeESWjf8CILK2xFc5QNe-QmPY",
+  authDomain: "birthdayapp-8853a.firebaseapp.com",
+  projectId: "birthdayapp-8853a",
+  storageBucket: "birthdayapp-8853a.appspot.com",
+  messagingSenderId: "988297673394",
+  appId: "1:988297673394:web:a31ceec5b6809aa8f427ab",
+  measurementId: "G-QECX7FTSNV"
 };
 
 @NgModule({
